@@ -9,6 +9,7 @@
     "machine-learning"
   ],
   "homepage": "https://github.com/adambrunner/glm",
+  "main": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/adambrunner/glm.git"
