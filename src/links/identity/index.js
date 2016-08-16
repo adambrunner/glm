@@ -1,4 +1,4 @@
-const Power = require('./power');
+const Power = require('../power');
 
 
 function Identity() {
